@@ -1,1 +1,3 @@
 # Artificial-social-networks
+
+I implemented algorithms to create artificial networks with similar patterns. By applying a Markov chain Monte Carlo algorithm, I created social networks with similar Transitivity (Friend of my friend is my friend), similar number of average friends among others. Having this kind of networks is very useful, for example: rather than conduct a survey with many students on different schools we could create many artificial networks with similar properties to extrapolate when it be necessary our analysis to other regions of Yucatan or even Mexico. On that way, we are cutting the project’s costs, avoiding to make unnecessary surveys to a complete school. 
